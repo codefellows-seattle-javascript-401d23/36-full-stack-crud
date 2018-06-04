@@ -22,7 +22,7 @@ Podcasts hold the following properties:<br/>
 
 ## Using locally
 
-Fork and clone this repo.
+Fork and clone this repo. Run this application Chrome and make sure you have the following extension downloaded: [Allow-Control-Allow-Origin:*](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
 
 ### 1. Set up .env files
 Create dotenv files in the back-end and front-end project directories:
