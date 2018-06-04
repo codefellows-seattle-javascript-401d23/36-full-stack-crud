@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom';
-import Dashoard from '../dashboard/dashboard';
+import Dashboard from '../dashboard/dashboard';
 
 export default class App extends React.Component {
   render() {
@@ -8,6 +8,7 @@ export default class App extends React.Component {
         <div className='app'>
           <BrowserRouter>
             <div>
+              <h1>Todo App of Happiness</h1>
               <Route exact path='/' compoonent={Dashboard} />
             </div>
           </BrowserRouter>

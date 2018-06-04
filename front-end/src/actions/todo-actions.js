@@ -38,7 +38,7 @@ const todoCreateRequest = todo => (dispatch) => {
     });
 };
 
-const todoCreateUpdate = todo => (dispatch) => {
+const todoUpdateRequest = todo => (dispatch) => {
   return superagent.post(`${API_URL}/api/lists/${todo._id}`)
       .send(todo)
       .then((response) => {
@@ -55,4 +55,4 @@ const todoDeleteRequest = todo => (dispatch) => {
     });
 };
 
-export { todosFetchRequest, todoCreateRequest, todoCreateUpdate, todoDeleteRequest };
+export { todosFetchRequest, todoCreateRequest, todoUpdateRequest, todoDeleteRequest };

@@ -37,6 +37,7 @@ class Dashboard extends React.Component {
 Dashboard.propTypes = {
   todosFetch: PropTypes.func,
   todoCreate: PropTypes.func,
+  todoUpdate: PropTypes.func,
   todoDelete: PropTypes.func,
   todos: PropTypes.array,
 };
@@ -50,6 +51,7 @@ const mapStateToProps = (state) => {
 const mapDispatchToProps = dispatch => ({
   todosFetch: () => dispatch(todoActions.todosFetchRequest()),
   todoCreate: todo => dispatch(todoActions.todoCreateRequest(todo)),
+  todoUpdate: todo => dispatch(todoActions.todoCreateRequest(todo)),
   todoDelete: todo => dispatch(todoActions.todoDeleteRequest(todo)),
 });
 

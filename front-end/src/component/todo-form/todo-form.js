@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import autoBind from './../../utils';
 
-const defaultState = { title: '', error: null }:
+const defaultState = { title: '', error: null };
 
 export default class TodoForm extends React.Component {
   constructor(props) {
