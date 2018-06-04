@@ -22,7 +22,6 @@ const podcastDelete = payload => ({
 });
 
 const podcastFetchRequest = () => (dispatch) => {
-  console.log('FETCHING FROM', API_URL);
   return superagent.get(`${API_URL}/api/podcasts`)
     .then((response) => {
       dispatch(podcastFetch(response.body));
