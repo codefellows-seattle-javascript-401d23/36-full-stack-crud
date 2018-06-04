@@ -39,6 +39,7 @@ const foodCreateRequest = food => (dispatch) => {
 
 const foodUpdateRequest = food => (dispatch) => {
   return superagent.put(`${API_URL}/api/food/${food._id}`)
+    .send(food)
     .then((response) => {
       dispatch(foodUpdate(food));
       return response;

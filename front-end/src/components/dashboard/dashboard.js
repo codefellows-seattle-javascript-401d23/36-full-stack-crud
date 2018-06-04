@@ -9,7 +9,9 @@ class Dashboard extends React.Component {
     this.props.foodFetch();
   }
   render() {
-    const { foods, foodCreate, foodDelete } = this.props;
+    const { 
+      foods, foodCreate, foodUpdate, foodDelete, 
+    } = this.props;
     return (
       <div className = 'dashboard'>
         <h2>Food App</h2>
@@ -23,6 +25,11 @@ class Dashboard extends React.Component {
               <div key = { food._id }>
                 <p> { food.name } </p>
                 <button onClick = {() => foodDelete(food)}>X</button>
+                <FoodForm
+                  onComplete = { foodUpdate }
+                  buttonText = 'Update Food'
+                  food = { food }
+                />
               </div>
             );
           })
@@ -35,6 +42,7 @@ class Dashboard extends React.Component {
 Dashboard.propTypes = {
   foodFetch: PropTypes.func,
   foodCreate: PropTypes.func,
+  foodUpdate: PropTypes.func,
   foodDelete: PropTypes.func,
   foods: PropTypes.array,
 };
@@ -48,6 +56,7 @@ const mapStateToProps = (state) => {
 const mapDispatchToProps = dispatch => ({
   foodFetch: () => dispatch(foodActions.foodFetchRequest()),
   foodCreate: food => dispatch(foodActions.foodCreateRequest(food)),
+  foodUpdate: food => dispatch(foodActions.foodUpdateRequest(food)),
   foodDelete: food => dispatch(foodActions.foodDeleteRequest(food)),
 });
 
