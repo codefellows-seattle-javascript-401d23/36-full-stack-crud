@@ -1,4 +1,4 @@
-import React form 'react';
+import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom';
 import Dashoard from '../dashboard/dashboard';
 

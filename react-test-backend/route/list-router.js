@@ -1,8 +1,8 @@
 'use strict';
 
 // npm modules
-const jsonParser = require('body-parser').json()
-const listRouter = module.exports = new require('express').Router()
+const jsonParser = require('body-parser').json();
+const listRouter = module.exports = new require('express').Router();
 
 // app modules
 const List = require('../model/list.js')
@@ -43,7 +43,7 @@ listRouter.get('/api/lists', (req, res, next) => {
 
 
 listRouter.put('/api/lists/:id', jsonParser, (req, res, next) => {
-  console.log('hit DELETE /api/lists/:id')
+  console.log('hit Update /api/lists/:id')
 
   List.findByIdAndUpdate(req.params.id, req.body, {new: true, runValidators: true})
   .then(list => res.json(list))
