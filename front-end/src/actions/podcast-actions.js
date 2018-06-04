@@ -39,7 +39,7 @@ const podcastCreateRequest = podcast => (dispatch) => {
 };
 
 const podcastUpdateRequest = podcast => (dispatch) => {
-  return superagent.put(`${API_URL}/podcasts/${podcast._id}`)
+  return superagent.put(`${API_URL}/api/podcasts/${podcast._id}`)
     .send(podcast)
     .then((response) => {
       dispatch(podcastUpdate(podcast));

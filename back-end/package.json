@@ -7,7 +7,8 @@
     "test": "eslint . && jest --coverage --forceExit --runInBand",
     "lint": "eslint .",
     "dbon": "mkdir -p ./db && mongod --dbpath ./db",
-    "dboff": "killall mongod"
+    "dboff": "killall mongod",
+    "start": "node index.js"
   },
   "jest": {
     "setupFiles": [

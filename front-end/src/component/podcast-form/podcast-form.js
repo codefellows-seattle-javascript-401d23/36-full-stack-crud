@@ -27,7 +27,7 @@ export default class PodcastForm extends React.Component {
     const result = onComplete(this.state);
     if (result instanceof Promise) {
       result.then(() => {
-        this.setState(defaultState);
+        this.setState(this.props.podcast ? this.state : defaultState);
       })
         .catch((err) => {
           console.error('PODCAST FORM ERROR: ', err);
@@ -59,7 +59,6 @@ export default class PodcastForm extends React.Component {
           value={this.state.genre}
           placeholder='genre'
           onChange={this.handleChange}
-          required
         />
         <input
           name='host'
@@ -75,7 +74,6 @@ export default class PodcastForm extends React.Component {
           value={this.state.parentCompany}
           placeholder='parent company'
           onChange={this.handleChange}
-          required
         />
         <button type='submit'>{this.props.buttonText}</button>
       </form>

@@ -2,6 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import PodcastForm from '../podcast-form/podcast-form';
+import PodcastItem from '../podcast-item/podcast-item';
 import * as podcastActions from '../../actions/podcast-actions';
 
 class Dashboard extends React.Component {
@@ -9,7 +10,7 @@ class Dashboard extends React.Component {
     this.props.podcastFetch();
   }
   render() {
-    const { podcasts, podcastCreate, podcastDelete } = this.props;
+    const { podcasts, podcastCreate } = this.props;
     return (
       <div className='dashboard'>
         <h2>My Podcasts</h2>
@@ -19,15 +20,7 @@ class Dashboard extends React.Component {
         />
         {
           podcasts.map((podcast) => {
-            return (
-              <div className='podcast-item' key={podcast._id}>
-                <h3>{podcast.name}</h3>
-                <h4>{podcast.host}</h4>
-                <p>Genre: {podcast.genre}</p>
-                <p>Parent Company: {podcast.parentCompany}</p>
-                <button onClick={() => podcastDelete(podcast)}>X</button>
-              </div>
-            );
+            return (<PodcastItem podcast={podcast} key={podcast._id}/>);
           })
         }
       </div>
@@ -39,7 +32,6 @@ Dashboard.propTypes = {
   podcastFetch: PropTypes.func,
   podcasts: PropTypes.array,
   podcastCreate: PropTypes.func,
-  podcastDelete: PropTypes.func,
 };
 
 const mapStateToProps = (state) => {
@@ -51,7 +43,6 @@ const mapStateToProps = (state) => {
 const mapDispatchToProps = dispatch => ({
   podcastFetch: () => dispatch(podcastActions.podcastFetchRequest()),
   podcastCreate: data => dispatch(podcastActions.podcastCreateRequest(data)),
-  podcastDelete: data => dispatch(podcastActions.podcastDeleteRequest(data)),
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(Dashboard);
