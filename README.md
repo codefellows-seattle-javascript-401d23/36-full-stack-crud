@@ -42,12 +42,14 @@ Front-end:
 ### 2. Turn on server
 In back-end folder of project directory:
 
+    npm i
     npm run dbon
     npm run start
 
 ### 3. Open Browser
 In front-end folder:
 
+    npm i
     npm run watch
     
 When finished, kill all terminal operations.
