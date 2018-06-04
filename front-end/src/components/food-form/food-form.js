@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import autoBind from './../../utils/index';
 
-const defaultState = { name: '', recipe: '', error: null };
+const defaultState = { name: '', error: null };
 
 export default class FoodForm extends React.Component {
   constructor(props) {
@@ -50,13 +50,6 @@ export default class FoodForm extends React.Component {
           placeholder = "Enter a food name"
           value = { this.state.name }
           onChange = { this.handleChange}
-        />
-        <input
-          name = "recipe"
-          type = "text"
-          placeholder = "Enter a recipe"
-          value = { this.state.recipe }
-          onChange = { this.handleChange }
         />
         <button type = "submit"> { this.props.buttonText }</button>
       </form>

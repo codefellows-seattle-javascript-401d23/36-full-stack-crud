@@ -32,7 +32,7 @@ class Dashboard extends React.Component {
   }
 }
 
-Dashboard.PropTypes = {
+Dashboard.propTypes = {
   foodFetch: PropTypes.func,
   foodCreate: PropTypes.func,
   foodDelete: PropTypes.func,
