@@ -47,8 +47,9 @@ const todosFetchRequest = todo => (dispatch) => {
 
 const todoUpdateRequest = todo => (dispatch) => {
   return superagent.put(`${API_URL}/api/lists/${todo._id}`)
+    .send(todo)  
     .then((response) => {
-      dispatch(todoUpdate(response.body));
+      dispatch(todoUpdate(todo));
     });
 };
 

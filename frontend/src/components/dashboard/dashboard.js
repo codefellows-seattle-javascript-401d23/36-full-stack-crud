@@ -10,7 +10,7 @@ class Dashboard extends React.Component {
   }
 
   render() {
-    const { todos, todoCreate, todoDelete } = this.props;
+    const { todos, todoCreate, todoDelete, todoUpdate } = this.props;
     return (
       <div className='dashboard'>
         <h1>Welcome to the Todo App</h1>
@@ -21,6 +21,11 @@ class Dashboard extends React.Component {
               <div key={todo._id} >
                 <p>{todo.title}</p>
                 <button onClick={() => todoDelete(todo)}>X</button>
+                <TodoForm 
+                  onComplete={todoUpdate}
+                  buttonText='Update Value'
+                  todo={todo}
+                />
               </div>
             );
           })
