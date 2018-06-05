@@ -13,4 +13,4 @@ BackEnd: JavaScript, Node.js, Express, Mongoose, MongoDB, Testing via Jest.
 To run the test suite for the backend please enter the following in the CLI: 'npm run test'
 
 ## Credits
-Fellow students for troubleshooting and group think  
+Fellow students for troubleshooting and group thinking.  
