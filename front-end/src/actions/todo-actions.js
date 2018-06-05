@@ -22,7 +22,6 @@ const todoDelete = todo => ({
 
 const todosFetchRequest = () => (dispatch) => {
   return superagent.get(`${API_URL}/api/lists`)
-    .send(todo)
     .then((response) => {
       dispatch(todosFetch(response.body));
       return response;

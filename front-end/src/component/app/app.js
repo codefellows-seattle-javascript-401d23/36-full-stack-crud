@@ -9,7 +9,7 @@ export default class App extends React.Component {
           <BrowserRouter>
             <div>
               <h1>Todo App of Happiness</h1>
-              <Route exact path='/' compoonent={Dashboard} />
+              <Route exact path='/' component={Dashboard} />
             </div>
           </BrowserRouter>
         </div>

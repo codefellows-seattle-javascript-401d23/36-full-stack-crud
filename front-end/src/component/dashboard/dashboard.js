@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import TodoForm from './../todo-form/todo-form';
+import TodoForm from '../todo-form/todo-form';
 import * as todoActions from '../../actions/todo-actions.js';
 
 class Dashboard extends React.Component {

@@ -12,7 +12,7 @@ export default class TodoForm extends React.Component {
   }
 
   componentDidUpdate(previousProps) {
-    if (previousProps.todo !== this.propstodo) {
+    if (previousProps.todo !== this.props.todo) {
       this.setState(this.props.todo);
     }
   }
