@@ -101,4 +101,4 @@ To build app, make 2 directories for front-end and back-end.
     Start your back-end mongodb and node servers
     Start your front-end
 
-    
+
