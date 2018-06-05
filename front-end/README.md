@@ -10,12 +10,21 @@
 
 
 #### Documentation  
-Write a description of the project in your README.md, including detailed instructions for how to build your app. In your frontend README.md add a code block with your frontend .env vars, and in your backend README.md add a code block with your backend .env vars.
+In your frontend README.md add a code block with your frontend .env vars, and in your backend README.md add a code block with your backend .env vars.
 
+Front-end .env vars:
+
+```
+API_URL=http://localhost:3000
+NODE_ENV=development
+
+```
 
 To build app, make 2 directories for front-end and back-end.
-    Add following dependencies to package.json and run npm i:
-    ```
+Add following dependencies to package.json and run npm i:
+
+```
+
      "devDependencies": {
         "babel-core": "^6.26.3",
         "babel-eslint": "^8.2.3",
@@ -56,11 +65,11 @@ To build app, make 2 directories for front-end and back-end.
         "superagent": "^3.8.3"
       },
 
-    ```
+```
 
-    Add the following dependencies to the back end by running npm i
+Add the following dependencies to the back end by running npm i
 
-    ```
+```
      "dependencies": {
         "body-parser": "^1.17.2",
         "cors": "^2.8.3",
@@ -75,30 +84,30 @@ To build app, make 2 directories for front-end and back-end.
         "mocha": "^3.4.2",
         "superagent": "^3.5.2"
       }
-    ```
+```
 
-    Add the following script to your .json front-end file:
+Add the following script to your .json front-end file:
 
-    ```
-    "scripts": {
-        "watch": "webpack-dev-server --config webpack.dev.js",
-        "test": "jest"
-      },
-     ```
+```
+"scripts": {
+    "watch": "webpack-dev-server --config webpack.dev.js",
+    "test": "jest"
+  },
+```
 
-     Add the following scripts to your .json back-end file:
+Add the following scripts to your .json back-end file:
 
-     ```
-     "scripts": {
-         "start": "node index.js",
-         "start-db": "mkdir -p ./db && mongod --dbpath ./db",
-         "stop-db": "killall mongod",
-         "test": "mocha"
-       },
-      ```
+```
+ "scripts": {
+     "start": "node index.js",
+     "start-db": "mkdir -p ./db && mongod --dbpath ./db",
+     "stop-db": "killall mongod",
+     "test": "mocha"
+   },
+```
 
-    To run program start up a terminal in the front-end and two terminals for the back-end.
-    Start your back-end mongodb and node servers
-    Start your front-end
+To run program start up a terminal in the front-end and two terminals for the back-end.
+Start your back-end mongodb and node servers
+Start your front-end
 
 
