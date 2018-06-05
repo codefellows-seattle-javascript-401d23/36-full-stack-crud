@@ -17,7 +17,7 @@ app.all('*', (request, response) => {
 app.use(errorMiddleware);
 
 const startServer = () => {
-  return mongoose.connect(process.env.MONGODB_URL)
+  return mongoose.connect(process.env.MONGODB_URI)
     .then(() => {
       server = app.listen(process.env.PORT, () => {
         logger.log(logger.INFO, `SERVER: Server is listening on port ${process.env.PORT}`);

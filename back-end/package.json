@@ -4,6 +4,7 @@
   "description": "![CF](https://camo.githubusercontent.com/70edab54bba80edb7493cad3135e9606781cbb6b/687474703a2f2f692e696d6775722e636f6d2f377635415363382e706e67) 13: Single Resource Mongo and Express API ===",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "eslint . && jest --coverage --forceExit",
     "dbon": "mkdir -p ./db && mongod --dbpath ./db",
     "dboff": "killall mongod"
@@ -14,8 +15,7 @@
     ]
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dahby/13-14-relationship-mapping.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
@@ -34,7 +34,7 @@
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jest": "^21.15.1",
     "jest": "^22.4.3",
-    "nodemon": "^1.17.3",
+    "nodemon": "^1.17.5",
     "superagent": "^3.8.3"
   },
   "dependencies": {

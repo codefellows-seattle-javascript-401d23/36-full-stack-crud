@@ -16,11 +16,20 @@ foodRouter.post('/api/food', jsonParser, (request, response, next) => {
     logger.log(logger.INFO, 'FOOD-ROUTER: POST - Responding with a 400 error code');
     return next(new HttpErrors(400, 'Name is required'));
   }
+  console.log(request.body);
   return new Food(request.body).save()
     .then((food) => {
       logger.log(logger.INFO, 'FOOD-ROUTER: POST - Responding with a 200 status code');
       return response.json(food);
     })
+    .catch(next);
+});
+
+foodRouter.get('/api/food', (request, response, next) => {
+  logger.log(logger.INFO, 'FOOD-ROUTER: GET - Processing a request');
+
+  Food.find({})
+    .then(food => response.json(food))
     .catch(next);
 });
 
