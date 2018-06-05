@@ -1,0 +1,330 @@
+{"level":"info","message":"Server is listening on port 3000"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"CONTINENT-ROUTER: Responding with 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Continent location is required"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /favicon.ico"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"Returning a 404 from the catch-all/default route"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"CONTINENT-ROUTER: Responding with 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Continent location is required"}
+{"level":"info","message":"Server is listening on port 3000"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"CONTINENT-ROUTER: Responding with 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Continent location is required"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"CONTINENT-ROUTER: Responding with 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Continent location is required"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"CONTINENT-ROUTER: Responding with 400 error code"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400 code and message Continent location is required"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 400"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15c54a46067a0cfc4925aa"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15c54a46067a0cfc4925aa"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c62046067a0cfc4925ab\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:07:12.836Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 409"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c7af46067a0cfc4925b4\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:13:51.726Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c7cc46067a0cfc4925b5\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:14:20.054Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c7af46067a0cfc4925b4\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:13:51.726Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c7cc46067a0cfc4925b5\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:14:20.054Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c80846067a0cfc4925b6\",\"location\":\"Asia\",\"description\":\"Middle Continent\",\"timestamp\":\"2018-06-04T23:15:20.471Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c83546067a0cfc4925b7\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:16:05.275Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c84946067a0cfc4925b8\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:16:25.334Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c7af46067a0cfc4925b4\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:13:51.726Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c7cc46067a0cfc4925b5\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:14:20.054Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c80846067a0cfc4925b6\",\"location\":\"Asia\",\"description\":\"Middle Continent\",\"timestamp\":\"2018-06-04T23:15:20.471Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c83546067a0cfc4925b7\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:16:05.275Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c84946067a0cfc4925b8\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:16:25.334Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c7af46067a0cfc4925b4\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:13:51.726Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c7cc46067a0cfc4925b5\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:14:20.054Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c80846067a0cfc4925b6\",\"location\":\"Asia\",\"description\":\"Middle Continent\",\"timestamp\":\"2018-06-04T23:15:20.471Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c83546067a0cfc4925b7\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:16:05.275Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c84946067a0cfc4925b8\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:16:25.334Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c8d746067a0cfc4925b9\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:18:47.216Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c7af46067a0cfc4925b4\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:13:51.726Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c7cc46067a0cfc4925b5\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:14:20.054Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c80846067a0cfc4925b6\",\"location\":\"Asia\",\"description\":\"Middle Continent\",\"timestamp\":\"2018-06-04T23:15:20.471Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c83546067a0cfc4925b7\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:16:05.275Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c84946067a0cfc4925b8\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:16:25.334Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c8d746067a0cfc4925b9\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:18:47.216Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c7af46067a0cfc4925b4\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:13:51.726Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c7cc46067a0cfc4925b5\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:14:20.054Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c80846067a0cfc4925b6\",\"location\":\"Asia\",\"description\":\"Middle Continent\",\"timestamp\":\"2018-06-04T23:15:20.471Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c83546067a0cfc4925b7\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:16:05.275Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c84946067a0cfc4925b8\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:16:25.334Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c8d746067a0cfc4925b9\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:18:47.216Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15c7af46067a0cfc4925b4\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:13:51.726Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c7cc46067a0cfc4925b5\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:14:20.054Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c80846067a0cfc4925b6\",\"location\":\"Asia\",\"description\":\"Middle Continent\",\"timestamp\":\"2018-06-04T23:15:20.471Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c83546067a0cfc4925b7\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:16:05.275Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c84946067a0cfc4925b8\",\"location\":\"Africa\",\"description\":\"Central Continent\",\"timestamp\":\"2018-06-04T23:16:25.334Z\",\"__v\":0},{\"penguins\":[],\"_id\":\"5b15c8d746067a0cfc4925b9\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:18:47.216Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15c8d746067a0cfc4925b9"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15c8d746067a0cfc4925b9"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15c84946067a0cfc4925b8"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15c84946067a0cfc4925b8"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15c83546067a0cfc4925b7"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15c83546067a0cfc4925b7"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15c80846067a0cfc4925b6"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15c80846067a0cfc4925b6"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15c7cc46067a0cfc4925b5"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15c7cc46067a0cfc4925b5"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15c7af46067a0cfc4925b4"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15c7af46067a0cfc4925b4"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15cab746067a0cfc4925ba\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:26:47.967Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15cab746067a0cfc4925ba"}
+{"level":"info","message":"Processing a PUT on /api/continents/5b15cab746067a0cfc4925ba"}
+{"level":"info","message":"CONTINENT-ROUTER: responding with a 200 status code"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15cab746067a0cfc4925ba\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:26:47.967Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15cab746067a0cfc4925ba"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15cab746067a0cfc4925ba"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/undefined"}
+{"level":"info","message":"Processing a PUT on /api/continents/undefined"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 404"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/undefined"}
+{"level":"info","message":"Processing a PUT on /api/continents/undefined"}
+{"level":"error","message":"__ERROR_MIDDLEWARE__"}
+{"level":"error","message":"error"}
+{"level":"info","message":"Responding with a 404"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15ce8f46067a0cfc4925bb\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:43:11.225Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15ce8f46067a0cfc4925bb"}
+{"level":"info","message":"Processing a PUT on /api/continents/5b15ce8f46067a0cfc4925bb"}
+{"level":"info","message":"CONTINENT-ROUTER: responding with a 200 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15cefd46067a0cfc4925bc"}
+{"level":"info","message":"Processing a PUT on /api/continents/5b15cefd46067a0cfc4925bc"}
+{"level":"info","message":"CONTINENT-ROUTER: responding with a 200 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15ce8f46067a0cfc4925bb"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15ce8f46067a0cfc4925bb"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15cefd46067a0cfc4925bc"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15cefd46067a0cfc4925bc"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents"}
+{"level":"info","message":"Processing a POST on /api/continents"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15cf6646067a0cfc4925bd"}
+{"level":"info","message":"Processing a PUT on /api/continents/5b15cf6646067a0cfc4925bd"}
+{"level":"info","message":"CONTINENT-ROUTER: responding with a 200 status code"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15cf6646067a0cfc4925bd\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:46:46.064Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15cf6646067a0cfc4925bd\",\"location\":\"Antarctica\",\"description\":\"Norther continent\",\"timestamp\":\"2018-06-04T23:46:46.064Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15cf6646067a0cfc4925bd"}
+{"level":"info","message":"Processing a PUT on /api/continents/5b15cf6646067a0cfc4925bd"}
+{"level":"info","message":"CONTINENT-ROUTER: responding with a 200 status code"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15cf6646067a0cfc4925bd\",\"location\":\"Antarctica\",\"description\":\"Central continent\",\"timestamp\":\"2018-06-04T23:46:46.064Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: [{\"penguins\":[],\"_id\":\"5b15cf6646067a0cfc4925bd\",\"location\":\"Antarctica\",\"description\":\"Central continent\",\"timestamp\":\"2018-06-04T23:46:46.064Z\",\"__v\":0}]"}
+{"level":"info","message":"Processing a OPTIONS on /api/continents/5b15cf6646067a0cfc4925bd"}
+{"level":"info","message":"Processing a DELETE on /api/continents/5b15cf6646067a0cfc4925bd"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 204 status code"}
+{"level":"info","message":"Processing a GET on /api/continents"}
+{"level":"info","message":"CONTINENT ROUTER: responding with 200 status code"}
+{"level":"info","message":"CONTINENT ROUTER: []"}

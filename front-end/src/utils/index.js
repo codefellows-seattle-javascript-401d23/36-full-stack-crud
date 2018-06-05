@@ -7,12 +7,16 @@ export default function autoBind(classComponent) {
   });
 }
 
-export const validateTodo = (payload) => {
+export const validateContinent = (payload) => {
   if (!payload._id) {
-    throw new Error('VALIDATION ERROR: todo must have an id');
+    throw new Error('VALIDATION ERROR: continent must have an id');
   }
 
-  if (!payload.title) {
-    throw new Error('VALIDATION ERROR: todo must have a title');
+  if (!payload.location) {
+    throw new Error('VALIDATION ERROR: continent must have a location');
+  }
+
+  if (!payload.description) {
+    throw new Error('VALIDATION ERROR: continent must have a description');
   }
 };

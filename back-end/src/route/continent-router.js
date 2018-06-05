@@ -40,6 +40,16 @@ continentRouter.get('/api/continents/:id', (request, response, next) => {
     .catch(next);
 });
 
+continentRouter.get('/api/continents', (request, response, next) => {
+  return Continent.find({})
+    .then((continents) => {
+      logger.log(logger.INFO, 'CONTINENT ROUTER: responding with 200 status code');
+      logger.log(logger.INFO, `CONTINENT ROUTER: ${JSON.stringify(continents)}`);
+      return response.json(continents);
+    })
+    .catch(next);
+});
+
 continentRouter.delete('/api/continents/:id', (request, response, next) => {
   return Continent.findByIdAndRemove(request.params.id)
     .then(() => {
