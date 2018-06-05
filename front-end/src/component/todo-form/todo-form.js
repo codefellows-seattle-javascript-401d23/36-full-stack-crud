@@ -39,6 +39,8 @@ export default class TodoForm extends React.Component {
   }
 
   render() {
+    const buttonText = this.props.category ? 'update' : 'Create Todo';
+
     return (
         <form onSubmit={this.handleSubmit} className='todo-form'>
           <input
