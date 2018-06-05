@@ -8,6 +8,13 @@ yarn-error.log*
 react-test-backend/db
 /db
 
+../react-test-backend/db
+
+db/
+
+react-test-backend/
+
+
 # Runtime data
 pids
 *.pid

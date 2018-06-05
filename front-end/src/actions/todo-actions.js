@@ -32,7 +32,7 @@ const todoCreateRequest = todo => (dispatch) => {
   return superagent.post(`${API_URL}/api/lists`)
     .send(todo)
     .then((response) => {
-      dispatch(todoCreate(todo));
+      dispatch(todoCreate(response.body));
       return response;
     });
 };
@@ -41,7 +41,7 @@ const todoUpdateRequest = todo => (dispatch) => {
   return superagent.post(`${API_URL}/api/lists/${todo._id}`)
       .send(todo)
       .then((response) => {
-        dispatch(todoUpdate(todo));
+        dispatch(todoUpdate(response.body));
         return response;
       });
 };
