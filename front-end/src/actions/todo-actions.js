@@ -38,7 +38,7 @@ const todoCreateRequest = todo => (dispatch) => {
 };
 
 const todoUpdateRequest = todo => (dispatch) => {
-  return superagent.post(`${API_URL}/api/lists/${todo._id}`)
+  return superagent.put(`${API_URL}/api/lists/${todo._id}`)
       .send(todo)
       .then((response) => {
         dispatch(todoUpdate(response.body));

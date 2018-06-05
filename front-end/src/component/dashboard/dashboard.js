@@ -16,7 +16,7 @@ class Dashboard extends React.Component {
         <div className='dashboard'>
           <h2> Todo: </h2>
           <TodoForm
-          onComplete={todoCreate}
+          onComplete={todoCreate} {todoUpdate}
           buttonText='Create Todo'
         />
         {
